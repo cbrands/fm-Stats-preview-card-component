@@ -1,0 +1,22 @@
+{
+  "name": "fm-stats-preview-card-component",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass -w scss/style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrands/fm-Stats-preview-card-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrands/fm-Stats-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/cbrands/fm-Stats-preview-card-component#readme",
+  "devDependencies": {
+    "sass": "^1.64.1"
+  }
+}
